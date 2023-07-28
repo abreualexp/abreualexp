@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**abreualexp/abreualexp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex Paranahyba Abreu, a master's student at Federal University of São Carlos (Brazil). 
 
-Here are some ideas to get you started:
+My main research topics of interest are:
+ - Applied optimization.
+ - Logistics problems.
+ - Production problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on Robust optimization applied to routing problems when uncertainty plays an important role in applications.
+
+Feel free to reach me on:
+ - [LinkedIn](https://www.linkedin.com/in/abreu-alex/)
+ - [Twitter](https://twitter.com/abreualexp)
