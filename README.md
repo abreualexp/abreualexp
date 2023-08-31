@@ -1,3 +1,5 @@
+![profile](images/profile.jfif)
+
 ### Hi there 👋
 
 I'm Alex Paranahyba Abreu, a master's student at Federal University of São Carlos (Brazil). 
