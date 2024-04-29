@@ -1,4 +1,4 @@
-![profile](images/profile.jfif)
+![profile](images/banner.jpg)
 
 ### Hi there 👋
 
